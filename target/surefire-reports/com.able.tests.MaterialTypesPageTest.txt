@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.able.tests.MaterialTypesPageTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 47.896 s - in com.able.tests.MaterialTypesPageTest
